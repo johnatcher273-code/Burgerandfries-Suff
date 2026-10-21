@@ -1,0 +1,45 @@
+{
+  "name": "My Library",
+
+  "sections": [
+
+    {
+      "title": "Featured",
+      "items": [
+        {
+          "title": "Big Buck Bunny",
+          "description": "Blender Foundation open movie, CC-BY.",
+          "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        },
+        {
+          "title": "Tears of Steel",
+          "description": "Blender Foundation open movie, CC-BY. Multi-language audio and subtitles.",
+          "stream": "https://test-streams.mux.dev/tos_ismc/main.m3u8"
+        }
+      ]
+    },
+
+    {
+      "title": "Shorts",
+      "items": [
+        {
+          "title": "Sintel",
+          "description": "Blender Foundation open movie, CC-BY.",
+          "stream": "https://test-streams.mux.dev/bbb_30fps/bbb_30fps.m3u8"
+        }
+      ]
+    },
+
+    {
+      "title": "Your Own Files",
+      "items": [
+        {
+          "title": "Replace this with your own file",
+          "description": "Point 'stream' at a direct .m3u8 or .mp4 URL you host or are licensed to use.",
+          "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        }
+      ]
+    }
+
+  ]
+}
